@@ -1,7 +1,5 @@
-import socket
 import zipfile
 import telebot
-import shutil
 import os
 bot=telebot.TeleBot("Your TOKEN")
 Files = [
